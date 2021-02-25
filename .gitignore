@@ -1,4 +1,4 @@
 logs
 *.log
 npm-debug.log*
-node_modules/git remote add origin https://github.com/tylerbmyers/events-app-internal.git
+node_modules/
